@@ -1,3 +1,3 @@
-console.load('config.js');
-console.load('version2');
+const index = require('./index.js');
+const version3 = require('./version3');
 
