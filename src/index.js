@@ -1,2 +1,2 @@
 console.load('index.js');
-console.load('version1');
+console.load('version2');
